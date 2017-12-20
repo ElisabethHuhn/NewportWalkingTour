@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:orientation="horizontal"
+
+    android:layout_width= "match_parent"
+    android:layout_height="wrap_content"
+
+    android:focusable="true"
+    android:clickable="true"
+
+    android:paddingTop="4dp"
+
+    android:background="?android:attr/selectableItemBackground"
+    >
+    <!-- Each field needs a weight that matches the weight of the header -->
+        <!-- This layout is for a Person element within a list-->
+
+    <!-- Stop # 12 -->
+    <TextView
+        android:id="@+id/siteOrdinalOutput"
+
+        android:layout_height="wrap_content"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:gravity="center"
+
+        android:layout_marginEnd="4dp"
+
+        android:textColor="@color/colorTextBlack"
+        android:background="@color/colorGray"
+        />
+
+    <!-- Title 10 -->
+    <TextView
+        android:id="@+id/siteTitleOutput"
+
+        android:layout_height="wrap_content"
+        android:layout_width="0dp"
+        android:layout_weight="35"
+        android:gravity="center"
+
+        android:layout_marginEnd="4dp"
+
+        android:textColor="@color/colorTextBlack"
+        android:background="@color/colorGray"
+        />
+
+
+
+</LinearLayout>
+
+
+
+
+
+

@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name"                 >NewportWalkingTour</string>
+    <string name="action_settings"          >Settings</string>
+    <string name="action_sites"             >Sites</string>
+    <string name="action_map"               >Map</string>
+
+    <string name="google_maps_key"          >AIzaSyBt3vVw6UxoRB4xNL46kJ568oCyayX1vSk</string>
+
+    <string name="title_splash"             >Newport Walking Tour</string>
+    <string name="title_newport_map"        >Map of Newport</string>
+
+    <string name="save_label"               >Save</string>
+    <string name="settings_24format"        >Is Clock 24 hour format?</string>
+    <string name="settings_24_label"        >24</string>
+    <string name="settings_12_label"        >12</string>
+
+    <string name="settings_show_fab"        >Show Floating Action Button shortcut?</string>
+    <string name="settings_on_label"        >on</string>
+    <string name="settings_off_label"       >off</string>
+
+    <string name="site_default_name"        >Site</string>
+    <string name="continue_label"           >Start Tour</string>
+
+    <string name="add_nothing"              >Nothing to Add</string>
+
+    <string name="drawing_pad_content_description">Screen area Newport Tour</string>
+
+    <string name="destroy_error"            >Error encountered when destroying map</string>
+
+    <string name="title_label"              >Title</string>
+    <string name="title_settings"           >Settings</string>
+    <string name="site_list_screen_label"   >Tour Stops</string>
+
+    <string name="iwOrdinal"                >Ordinal</string>
+    <string name="iw_latitude_label"        >Latitude</string>
+    <string name="iw_longitude_label"       >Longitude</string>
+    <string name="iw_elevation_label"        >Elevation</string>
+
+
+    <string name="introduction_label"       >Introduction</string>
+    <string name="introTitle"               >Welcome to Pelham Court Walking Tour</string>
+    <string name="dismissLabel"             >Dismiss</string>
+    <string name="showLongDesc"             >Long</string>
+    <string name="showShortDesc"            >Short</string>
+
+    <string name="sitesOnTour"              >Stops on Newport Walking Tour</string>
+    <string name="siteOrdinal"              >Stop #</string>
+
+    <string name="bonusCharacter"           >y</string>
+    <string name="bonusWord"                >yes</string>
+    <string name="startCharacter"           >s</string>
+    <string name="startWord"                >start</string>
+
+
+
+</resources>

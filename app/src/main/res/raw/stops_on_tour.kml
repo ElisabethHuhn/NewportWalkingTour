@@ -1,0 +1,1010 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Stops on tour</name>
+    <Style id="icon-seq2-0-0-0288D1-labelson">
+      <IconStyle>
+        <color>ff0000ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-1-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-10-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-11.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-11-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-12.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-12-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-13.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-13-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-14.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-14-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-15.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-15-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-16.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-16-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-17.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-17-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-18.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-18-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-19.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-19-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-20.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-2-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-3.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-20-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-21.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-21-0288D1-labelson">
+      <IconStyle>
+        <color>ffcac9c9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-22.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-22-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-23.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-23-0288D1-labelson">
+      <IconStyle>
+        <color>ffcac9c9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-24.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-24-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-25.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-25-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-26.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-26-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-27.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-27-0288D1-labelson">
+      <IconStyle>
+        <color>ffcac9c9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-28.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-28-0288D1-labelson">
+      <IconStyle>
+        <color>ffcac9c9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-29.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-29-0288D1-labelson">
+      <IconStyle>
+        <color>ffcac9c9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-30.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-3-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-4.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-30-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-31.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-31-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-32.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-32-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-33.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-33-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-34.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-34-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-35.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-35-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-36.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-36-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-37.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-37-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-38.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-38-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-39.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-39-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-40.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-4-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-5.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-40-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-41.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-41-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-42.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-42-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-43.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-43-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-44.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-44-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-45.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-45-0288D1-labelson">
+      <IconStyle>
+        <color>ffcac9c9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-46.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-46-0288D1-labelson">
+      <IconStyle>
+        <color>ffcac9c9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-47.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-47-0288D1-labelson">
+      <IconStyle>
+        <color>ffcac9c9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-48.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-48-0288D1-labelson">
+      <IconStyle>
+        <color>ffcac9c9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-49.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-49-0288D1-labelson">
+      <IconStyle>
+        <color>ffcac9c9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-50.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-5-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-6.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-6-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-7.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-7-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-8.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-8-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-9.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="icon-seq2-0-9-0288D1-labelson">
+      <IconStyle>
+        <color>ffcac9c9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-10.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="poly-0288D1-1200-76-normal">
+      <LineStyle>
+        <color>ffd18802</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4cd18802</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-0288D1-1200-76-highlight">
+      <LineStyle>
+        <color>ffcac9c9</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4cd18802</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-0288D1-1200-76">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-0288D1-1200-76-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-0288D1-1200-76-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Pelham Court Hotel</name>
+      <description>This is the starting point of the tour. While not colonial, 14 Pelham Street has architectural features that make it right at home in colonial Newport. The roof style is called mansard. And the little doodads along the roofline are called dentals.</description>
+      <styleUrl>#icon-seq2-0-0-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3143051,41.4863685,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gas Lit Street</name>
+      <description>First gas lit street in the world. David Melville lived at the corner of Thames and Pelham street at the turn of the century from the 1700s to the 1800s. He conducted experiments with gas lighting in his basement. Success was measured by brightness, his lamps were significantly brighter than candles and oil lamps. By 1806 he could light 20 rooms in his home and also had a large lantern to light Pelham street. On March 24, 1810 David Melville was granted the first American gas light patent.</description>
+      <styleUrl>#icon-seq2-0-1-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+            -71.3148576,41.4863263,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thames Street </name>
+      <description><![CDATA[Newporters pronounce it THames (not tems). It was King George who, being German, did not pronounce the English TH. Being the King's English, Britton changed their pronunciation. Given that we took issue with the king long about then, we Newporter's did not change.  ]]></description>
+      <styleUrl>#icon-seq2-0-2-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+            -71.3148952,41.4865032,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Early Colonial History</name>
+      <description>In 1638 a band of 300 followed Anne Hutchinson, her husband, and 13 children into banishment from the Puritan Massachusetts Bay Colony, which at the time only numbered 800. This banishment was the result of the disagreement over whether whether “good works” SHOWED that one was of God’s chosen, or whether one performed “good works” to BECOME chosen.</description>
+      <styleUrl>#icon-seq2-0-3-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3149434,41.4868045,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Portsmouth</name>
+      <description><![CDATA[Anne's followers initially purchased Aquidneck Island from the indigenous peoples who had a presence here for 5000 years and had established sophisticated land management and fishing practices. In 1638 they settled in Pocasset at the north of the island, renaming it Portsmouth. In 1639 part of the group split and came to  Newport. By 1640 the split was healed, and the towns reunited. Within a year, over 100 families had settled in Newport.]]></description>
+      <styleUrl>#icon-seq2-0-4-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3149005,41.4869412,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Anne Hutchinson</name>
+      <description>Even though Anne Hutchinson was central to the founding of Newport and Aquidneck Island, she did not stay long. William Hutchenson died in 1642 and without him Anne feared the proximity of Massachusetts. She moved her family south to the New Netherland region, right near where the Throgs Neck bridge is today. Unfortunately, she and all but her youngest daughter were killed in an indian raid in 1643 during one of the earliest Indian uprisings. </description>
+      <styleUrl>#icon-seq2-0-5-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3145947,41.4869372,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA["Indian Raid"]]></name>
+      <description><![CDATA[There used to be a dry cleaning business with a large smokestack in Queen Ann Square. Legally, there was a restraining order preventing it's demolition during the revitalization of Newport in the 1970s. In 1976, with the Queen coming,  one night there was an "indian raid" in full regalia cut the guide wires of the smokestack. The stack was pulled down before the Queen arrived in July.]]></description>
+      <styleUrl>#icon-seq2-0-6-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3144767,41.4871702,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fire House #1</name>
+      <description>The first fire house in Newport. Again, this is not colonial, but Newport Fire Station Number 1 is at 19 Mill Street. This beautiful brick building housed a horse drawn fire truck. At the time, all the fire trucks in Newport were horse drawn. When the city turned to motorized fire trucks, they faces a double dilemma. First, the new fire engines were not strong enough to pull the engines up Mill Street, so Old Number One was closed. Also, in an effort to maximize city resources, all the fire horses were given to the sanitation department to pull garbage trucks. Apparently it was not as essential to update garbage trucks as fire engines. However, the concept of unintended consequences struck. Fire Horses were not nags, but highly trained members of the fire department. Every time the fire sirens went off, every garbage truck in the city turned up at the fire.
+      </description>
+      <styleUrl>#icon-seq2-0-7-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3138437,41.4867784,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>15 Mill Street</name>
+      <description>Not strictly colonial with a construction date of 1800, the architectural style is close enough. The right side of the house was probably constructed first, with the left side added later when the family and finances grew. </description>
+      <styleUrl>#icon-seq2-0-8-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3139939,41.4868086,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>166 Spring Street</name>
+      <description>A colonial home with several colonial features. Notice in particular the front stairs. </description>
+      <styleUrl>#icon-seq2-0-9-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3128325,41.4868246,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>158 Spring Street</name>
+      <description>Good example of colonial building that has had the first floor turned into a store. Also note the mansard roof with widows walk. </description>
+      <styleUrl>#icon-seq2-0-10-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3128325,41.4870718,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Trinity Church</name>
+      <description>Gathered 1698, built 1726, enlarged 1764, restored 1986. The only church in America under the crown of England. Take a close look at the weather vane.</description>
+      <styleUrl>#icon-seq2-0-11-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3129103,41.487341,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>140 Spring Street</name>
+      <description>Notice this building on the south east corner of the intersection of Spring and Church Streets. A beautiful example of a building whose first floor has been modified for a commercial business. Particularly note the mansard roof and dentals along the roof line.</description>
+      <styleUrl>#icon-seq2-0-12-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.312803,41.4874435,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>136 Spring Street</name>
+      <description>Another colonial building modified for commercial use. Note the gambrel roof and the decorative dentals.</description>
+      <styleUrl>#icon-seq2-0-13-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3127494,41.4875882,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>137 Spring Street</name>
+      <description>The interesting point about this building is that while it too has been modified for commercial usage, the modification was to lift it up a story and slide in a new first floor. Note the dentals, corner treatment, and widows walk.</description>
+      <styleUrl>#icon-seq2-0-14-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3130176,41.4875922,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>119 Spring Street</name>
+      <description><![CDATA[The thing to notice about this 1750 colonial building is it's brick endwall. Fires were always dangerous in towns with wooden buildings. The brick end walls were a fire stop. The gambrel roof, window tops, clapboards, and fancy doorway mark this as a colonial building. Note that the steps extend into the sidewalk.]]></description>
+      <styleUrl>#icon-seq2-0-15-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3129961,41.4880422,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>118, 120 Spring Street</name>
+      <description><![CDATA[Directly across the street is an example of steps that were pulled up into the interior of the house to get them out of the way of inebriated British occupation soldiers stumbling their way home at night. Actually not. This building was built in the 1800's, so it only emulates the earlier style.]]></description>
+      <styleUrl>#icon-seq2-0-16-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3127762,41.4880382,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vernan House</name>
+      <description>Beautiful example of rusticated wood exterior. Notice there is no coyne, thus the building can not be made of stone. The lodgings of Rochambeau after his arrival in Newport and before he sailed to Yorktown</description>
+      <styleUrl>#icon-seq2-0-17-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3133019,41.4885345,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Clarke Street</name>
+      <description><![CDATA[Clarke Street is named after John Clarke who drafted the 1663 Royal Charter that enshrined the "lively experiment" of religious freedom. As you walk along the street, notice the fine examples of colonial buildings.]]></description>
+      <styleUrl>#icon-seq2-0-18-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3134682,41.4888178,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Newport Artillery Company Armory</name>
+      <description><![CDATA[Chartered in 1741 to provide trained group of men capable of officering other units, should the need arise. A harbinger of today's Naval War College.  But mostly, notice that this is a real stone building, as opposed to Vernon House's Rusticated Wood exterior. Especially notice the corner coyne. The coyne is essential to a true stone building.  ]]></description>
+      <styleUrl>#icon-seq2-0-19-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3136989,41.4890428,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>11 Clarke Street</name>
+      <description><![CDATA[This colonial building is distinct in that it is not covered in clapboards, but rather shake shingles. This use of shingles is a uniquely American style, particularly in New England, although it was even more popular in the 1800's.]]></description>
+      <styleUrl>#icon-seq2-0-20-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3136399,41.4894607,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bonus- Touro Synagogue</name>
+      <description>Although a bit of a detour from the walking tour, the Touro Synagogue is a gem worth seeing if you have the time and energy.</description>
+      <styleUrl>#icon-seq2-0-21-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3119447,41.4894366,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Colony House</name>
+      <description>Built in 1741 by Richard Munday. The death of George II was announced from the balcony and the Declaration of Independence was read from the steps. Seat of RI legislature from 1739 to 1901. Later served as county court house. </description>
+      <styleUrl>#icon-seq2-0-22-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3130659,41.4903447,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bonus Wanton–Lyman–Hazard House</name>
+      <description>Along with the White Horse Tavern, one of the oldest houses in Newport. Parts of this structure date to the 1600s.</description>
+      <styleUrl>#icon-seq2-0-23-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3125938,41.4908872,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Original Site of the Pitts Head Tavern</name>
+      <description><![CDATA[Later in the tour we'll see the Pitts Head Tavern on its current location at 77 Bridge Street. The building was originally built here on the Parade in 1726. It was moved farther north along Charles in 1765 to a location that is today a parking lot (#5). In 1965 the building was moved again to its current location on Bridge Street.]]></description>
+      <styleUrl>#icon-seq2-0-24-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3143586,41.4902322,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Decatur House</name>
+      <description>This colonial home predates 1714. It belonged to the father of Commodore Stephen Decatur,  the hero of the war of 1812 and after whom many American cities and counties are named. </description>
+      <styleUrl>#icon-seq2-0-25-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3143694,41.4907787,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Old Newport Jail</name>
+      <description>There was a jail on this spot from 1658 until 1986. The current building was originally built in 1777 replacing the 1658 structure. There was a story in the Newport Mercury about a jail break where the prisoner was so disdainful of the conditions of the jail that he left a note behind after a jailbreak disdaining the poor conditions of the building that allowed him to escape. </description>
+      <styleUrl>#icon-seq2-0-26-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3142729,41.49106,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bonus - White Horse Tavern</name>
+      <description><![CDATA[Possibly the oldest building in Newport. The structure was initially built in 1652 as a private home. It was sold and converted to a tavern in 1673, and is believed to be the oldest tavern building in America. Colony house was not built for another 100 years. The tavern served as the municipal building, hosting General Assembly, criminal courts, and city council. <br><br>During the early 1700s the proprietor was a well known pirate. <br><br>During the British Occupation, Hessian soldiers were billeted here, and the proprietor moved his family out in protest. After the war, the tavern was enlarged and the gambrel roof added.<br><br>At the end of the 1800s the tavern was sold and turned into a rooming house. By 1957 the toll on the building was showing. The preservation society restored the structure and reopened the tavern. ]]></description>
+      <styleUrl>#icon-seq2-0-27-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3137418,41.4913775,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bonus- Quaker Meeting House</name>
+      <description>The Quaker Meeting house dates from 1699. The Quakers were a dominant community in colonial Newport, and over half the inhabitants of Newport were members of the Society of Friends. </description>
+      <styleUrl>#icon-seq2-0-28-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3130766,41.4919842,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bonus - King Philips War</name>
+      <description>The only reason this marker is here is the proximity of the Friends Meeting House. Metacomet was a Wampanoag chief, who took the English name Philip, and who waged the first Indian war against the Europeans in North America. His home base was Mount Hope off the north end of the Island. The European population explosion put pressure on the Wampanoags, who were also feeling pressure from the Iroquois in the west. Tensions built until 1675 when war broke out. Things did not end for Philip. He was captured and killed in 1676. The connection to the Quakers was that their pacifist ideals included neutrality and peace toward Native Americans. </description>
+      <styleUrl>#icon-seq2-0-29-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3134468,41.492153,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>8 Marlbourough St</name>
+      <description>Although this is not a colonial building, it is a fine example of one that has been lifted up a story, and a commercial establishment inserted at ground level.</description>
+      <styleUrl>#icon-seq2-0-30-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3147128,41.4911565,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Inner Harbor or Cove</name>
+      <description>The whole area (from Thames St to Washington Street, and from Long Wharf to Gladys Carr Bolhouse Road) was an inner harbor named The Cove. The streets adjoining the Parade (Washington Square and) Touro Street)  fed directly into Long Wharf, which was a draw bridge over open water stretching from just off Thames Street to a spit of land which ended at today’s corner of Long Wharf and Washington Street. The Cove was filled in sometime between the 1859 map and the 1876 Map. The land was sold to the Railroads.</description>
+      <styleUrl>#icon-seq2-0-31-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3154316,41.4910359,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bridge Street</name>
+      <description>Bridge Street seems an odd name for a land locked thoroughfare, but this street used to have a bridge on it, over the inner edge of the Cove. Bridge Street had many commercial enterprises, especially Newport Furniture manufacturers. They could have a shop in the front of the house, yet be able to connect to shipping out the back to both bring in raw materials and to ship finished product.</description>
+      <styleUrl>#icon-seq2-0-32-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.315496,41.4924182,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>6 Bridge Street</name>
+      <description>A particularly nice example of a one story gambrel roofed colonial. As you proceed down Bridge Street, imagine that just behind all the houses on the left (as you face the water) was the inner Harbor)</description>
+      <styleUrl>#icon-seq2-0-33-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3158178,41.4922414,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>16, 22, etc Bridge Street</name>
+      <description>There are many fine examples of colonial buildings along Bridge Street.</description>
+      <styleUrl>#icon-seq2-0-34-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3162845,41.4921891,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Bridge</name>
+      <description>As near as I can tell, the actual bridge of bridge street is right where we cross Am Cup Ave today.  The bridge crossed over the inner marsh that adjoined the cove. Notice the Railroad on the NW corner. This is a reminder that the filled in cove was all owned by the Railroad.</description>
+      <styleUrl>#icon-seq2-0-35-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3172394,41.4921691,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Easten's Point]]></name>
+      <description><![CDATA[Looking North from this corner you will see the Point. Quaker merchants lived in this area of town. Perhaps most noticeable is the names of the streets. While other parts of town enshrine the early settlers of Newport, on the point NS streets are numbered (1st at the water, proceeding to 2nd and 3rd as you proceed west). EW streets are named after trees: Elm, Popular, Willow, Walnut, etc. The quakers thought that naming streets after people was "Man Worship"  rather than glory to God. However, after the revolution, 1st was renamed after George Washington.]]></description>
+      <styleUrl>#icon-seq2-0-36-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3185483,41.4922213,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Newport Furniture Makers</name>
+      <description>Furniture makers had homes and shops along the cove, where finished product would be loaded onto ships for export. The Townsends and the Goddards are the most famous of these craftsmen. </description>
+      <styleUrl>#icon-seq2-0-37-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.31894,41.4922655,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>53 Bridge Street - Thomas Townsend</name>
+      <description>Thomas Townsend house </description>
+      <styleUrl>#icon-seq2-0-38-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3187468,41.4920244,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>John Goddard (grandson) Home</name>
+      <description>The home of John Goddard, the grandson of the original John Goddard who was one of the initial Newport furniture makers. </description>
+      <styleUrl>#icon-seq2-0-39-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3194013,41.4922173,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Entire Block owned by Townsend Family</name>
+      <description><![CDATA[Townsend family owned the entire block within the streets of Bridge, Elm, Second and Third. There are several buildings standing today that are associated with the family, e.g. <br> #14 Third Street - Thomas Townsend<br> #53 Bridge Street - Thomas Townsend<br> #70 Bridge Street - John Townsend<br> #74 and 76 Bridge Street - Christopher Townsend<br> #19 Second Street - John Townsend<br> #51 Second Street - Solomon Townsend<br> The home of Job and Job Jr., once stood on northwest corner of Third and Bridge Streets. Once known as #59 Bridge, house existed until the 1950’s. ]]></description>
+      <styleUrl>#icon-seq2-0-40-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3191867,41.4924584,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>74 Bridge Street  - Christopher Townsend</name>
+      <description>Christopher Townsend house and shop</description>
+      <styleUrl>#icon-seq2-0-41-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3196642,41.4920325,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>76 Bridge Street</name>
+      <description>Christopher Townsend </description>
+      <styleUrl>#icon-seq2-0-42-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3199136,41.4920144,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pitts Head Tavern</name>
+      <description>This building was a tavern in Colonial times,  Originally built on the Parade (Washington Square today) in 1726, it became a tavern in 1765. A recruiting headquarters during the Occupation by the British. In 1877 it was moved along Charles Street, and  sited here in 1965. Another example of the skill of Newport House Movers throughout the ages.</description>
+      <styleUrl>#icon-seq2-0-43-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.320163,41.4921811,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bonus  - Marsh Street - Just notice the name</name>
+      <description>This street fronted on the inner harbor, and was obviously reflective of the water table here. South of here was the open water of the Cove.. The spit of land above the water ran along Washington Street, with the Cove being to the East, i.e. where the Wyndham Inn and Newport Marriott are today.</description>
+      <styleUrl>#icon-seq2-0-44-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3203401,41.4914137,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bonus - Initial Location of John Goddard House</name>
+      <description><![CDATA[This is several blocks from the end of the tour, but it is the spot where John Goddard's house initially stood. It was moved to 81 Second Street in the 1860s]]></description>
+      <styleUrl>#icon-seq2-0-45-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3208818,41.4938969,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bonus - John Goddard House</name>
+      <description>Current location of original home of John Goddard, the furniture maker. </description>
+      <styleUrl>#icon-seq2-0-46-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3199377,41.4965568,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Bonus - Washington's Arrival]]></name>
+      <description><![CDATA[This marks the spot where George Washington stepped off the ferry in Newport in March of 1781 on his way to meet Rochambeau.  Washington was greeted with an artillery salute. French troops lined the route to Rochambeau's headquarters. The town council provided free candles so that all windows could be illuminated in honor of Washington's visit.]]></description>
+      <styleUrl>#icon-seq2-0-47-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.320442,41.4892357,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bonus - Dyres Gate</name>
+      <description>Presumably named </description>
+      <styleUrl>#icon-seq2-0-48-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3194361,41.4995641,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bonus - Dyer Farmhouse</name>
+      <description>The Dyer farmhouse was somewhere around here. It was probably dismantled for firewood by the British during the occupation of 1776 to 1779, like 500 other buildings in Newport.</description>
+      <styleUrl>#icon-seq2-0-49-0288D1-labelson</styleUrl>
+      <Point>
+        <coordinates>
+          -71.3198733,41.5036922,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dyer Farm</name>
+      <description>The farm of Mary and Wm Dyer was large, and approximately covered this area. </description>
+      <styleUrl>#poly-0288D1-1200-76</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -71.3218904,41.4968139,0
+              -71.3194361,41.4995641,0
+              -71.3175559,41.5070508,0
+              -71.3233924,41.5063276,0
+              -71.3221693,41.5023423,0
+              -71.3221908,41.5006228,0
+              -71.3218904,41.4968139,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
