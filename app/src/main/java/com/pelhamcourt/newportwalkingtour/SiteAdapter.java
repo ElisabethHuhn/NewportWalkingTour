@@ -1,5 +1,6 @@
 package com.pelhamcourt.newportwalkingtour;
 
+import android.support.v4.content.ContextCompat;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -52,10 +53,12 @@ class SiteAdapter extends RecyclerView.Adapter<SiteAdapter.MyViewHolder>{
     public void onBindViewHolder(MyViewHolder holder, int position){
         //get the row indicated
         SiteScript site = new SiteScript(mActivity, position);
-        if (site == null)return;
 
         holder.siteOrdinal.setText(String.valueOf(site.getOrdinal()));
         holder.siteTitleName. setText(site.getTitle());
+
+        holder.siteOrdinal.setBackgroundColor(ContextCompat.getColor(mActivity, R.color.colorWhite));
+        holder.siteTitleName.setBackgroundColor(ContextCompat.getColor(mActivity, R.color.colorWhite));
     }
 
     @Override

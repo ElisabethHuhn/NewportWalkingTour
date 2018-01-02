@@ -17,13 +17,13 @@
     <!-- Each field needs a weight that matches the weight of the header -->
         <!-- This layout is for a Person element within a list-->
 
-    <!-- Stop # 12 -->
+    <!-- Stop # 4 -->
     <TextView
         android:id="@+id/siteOrdinalOutput"
 
         android:layout_height="wrap_content"
         android:layout_width="0dp"
-        android:layout_weight="1"
+        android:layout_weight="4"
         android:gravity="center"
 
         android:layout_marginEnd="4dp"
@@ -46,9 +46,7 @@
         android:textColor="@color/colorTextBlack"
         android:background="@color/colorGray"
         />
-
-
-
+    
 </LinearLayout>
 
 

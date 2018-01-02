@@ -51,7 +51,7 @@ public class SettingsFragment extends Fragment {
         super.onCreate(savedInstanceState);
 
         //initialize the DB, providing it with a context if necessary
-        DatabaseManager.getInstance(getActivity());
+        //DatabaseManager.getInstance(getActivity());
     }
 
     @Override
@@ -90,7 +90,7 @@ public class SettingsFragment extends Fragment {
             //get rid of the soft keyboard if it is visible
             View v = getView();
             if (v != null) {
-                EditText defaultTime = v.findViewById(R.id.switch24Format);
+                EditText defaultTime = v.findViewById(R.id.switchFabVisible);
                 Utilities.getInstance().showSoftKeyboard(getActivity(), defaultTime);
             }
         } else {
@@ -140,16 +140,6 @@ public class SettingsFragment extends Fragment {
 
         final MainActivity activity = (MainActivity)getActivity();
 
-        SwitchCompat clock24Switch = v.findViewById(R.id.switch24Format);
-        clock24Switch.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
-            @Override
-            public void onCheckedChanged(CompoundButton compoundButton, boolean isChecked) {
-                Settings.getInstance().setClock24Format(activity, isChecked);
-            }
-        });
-
-
-
         SwitchCompat showFAB = v.findViewById(R.id.switchFabVisible);
         showFAB.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
@@ -165,10 +155,6 @@ public class SettingsFragment extends Fragment {
 
         Settings settings = Settings.getInstance();
         MainActivity activity = (MainActivity)getActivity();
-
-        //Set all the switches from the stored Preferences
-        SwitchCompat clock24Switch =  v.findViewById(R.id.switch24Format);
-        clock24Switch.setChecked(settings.isClock24Format(activity));
 
         SwitchCompat showFAB = v.findViewById(R.id.switchFabVisible);
         showFAB.setChecked(settings.isFabVisible(activity));

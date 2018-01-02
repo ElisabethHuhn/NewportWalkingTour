@@ -262,6 +262,10 @@ public class NewportMapFragment extends Fragment {
         mMap.setMapType(GoogleMap.MAP_TYPE_TERRAIN);
 
         int minZoomLevel = 3;
+        MainActivity activity = (MainActivity)getActivity();
+        if (activity != null) {
+            minZoomLevel = Settings.getInstance().getMinZoomLevel(activity);
+        }
         //Make sure we don't zoom in too close
         mMap.setMinZoomPreference(minZoomLevel);
 

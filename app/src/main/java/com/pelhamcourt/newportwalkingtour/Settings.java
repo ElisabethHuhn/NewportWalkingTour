@@ -65,21 +65,6 @@ import android.content.SharedPreferences;
     //               Preferences setters and getters         //
     //*********************************************************/
 
-    long getSiteID (MainActivity activity)  {
-        return getLongSetting(activity, Site.sSiteIDTag, Utilities.ID_DOES_NOT_EXIST);
-    }
-    void setSiteID (MainActivity activity, long patientID){
-        //Store the SiteID for the next time
-        setLongSetting(activity, Site.sSiteIDTag, patientID);
-    }
-
-    boolean isClock24Format(MainActivity activity)  {
-        return getBooleanSetting(activity, Settings.sClock24FormatTag, false);
-    }
-    void    setClock24Format(MainActivity activity, boolean is24Format){
-        setBooleanSetting(activity, Settings.sClock24FormatTag, is24Format);
-    }
-
     boolean isFabVisible(MainActivity activity)  {
         return getBooleanSetting(activity, Settings.sFabVisibleTag, true);
     }
@@ -87,10 +72,8 @@ import android.content.SharedPreferences;
         setBooleanSetting(activity, Settings.sFabVisibleTag, isFabVisible);
     }
 
-
-    // TODO: 12/17/2017 put these in the settings fragment UI
     int getMinZoomLevel(MainActivity activity){
-        return getIntSetting(activity, sMinZoomTag, 8);
+        return getIntSetting(activity, sMinZoomTag, 3);
     }
     int getMarkerPadding(MainActivity activity){
         return getIntSetting(activity, sMarkerPaddingTag,  50);

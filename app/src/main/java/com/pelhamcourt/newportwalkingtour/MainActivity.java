@@ -62,11 +62,11 @@ public class MainActivity extends AppCompatActivity {
         // automatically handle clicks on the Home/Up button, so long
         // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
-
+/*
         if (id == R.id.action_settings) {
             switchToSettingsScreen();
             return true;
-        } else if (id == R.id.action_sites) {
+        } else */if (id == R.id.action_sites) {
             switchToSiteListScreen();
             return true;
         } else if (id == R.id.action_map) {
@@ -91,30 +91,6 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    //**************************************************************/
-    //********** Remember the current Site             *************/
-    //**************************************************************/
-    public long getSiteID()  {
-        if (mSiteID == Utilities.ID_DOES_NOT_EXIST) {
-            //see if there is anything stored in shared preferences
-            mSiteID = Settings.getInstance().getSiteID(this);
-        }
-
-        return mSiteID;
-    }
-
-    public void setSiteID (long patientID){
-        long oldSiteID = mSiteID;
-        if (oldSiteID != patientID) {
-            mSiteID = patientID;
-            //Store the PersonID for the next time
-            Settings.getInstance().setSiteID(this,patientID);
-        }
-    }
-
-    public Site getSite(){
-        return SiteManager.getInstance().getSite(getSiteID());
-    }
 
     //**************************************************************/
     //********** Methods dealing with the FAB          *************/
@@ -153,9 +129,6 @@ public class MainActivity extends AppCompatActivity {
         Fragment fragment = fm.findFragmentById(R.id.fragment_container);
 
         if ( fragment instanceof SplashFragment)  {
-            hideFAB();
-
-        } else if (fragment instanceof SplashFragment) {
             hideFAB();
 
         }  else {

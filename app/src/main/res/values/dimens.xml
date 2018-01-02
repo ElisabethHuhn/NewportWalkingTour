@@ -4,5 +4,4 @@
     <dimen name="activity_vertical_margin"  >8dp</dimen>
 
     <dimen name="fab_margin">16dp</dimen>
-    <dimen name="row_between_fields_margin">4dp</dimen>
 </resources>

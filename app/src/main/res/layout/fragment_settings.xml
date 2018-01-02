@@ -23,56 +23,16 @@
         android:orientation="vertical"
         >
 
-        <!-- Screen Title, Buttons and Person Attributes -->
-        <TableLayout
+
+        <android.support.v7.widget.SwitchCompat
+            android:id="@+id/switchFabVisible"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_gravity="top|center_vertical"
-            >
-
-
-            <!-- Clock format: 24hour? -->
-            <TableRow
-                android:layout_height="wrap_content"
-                android:layout_width ="match_parent"
-                android:paddingTop="10dp"
-                android:gravity="center"
-                >
-
-                <android.support.v7.widget.SwitchCompat
-                    android:id="@+id/switch24Format"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="@string/settings_24format"
-                    android:textOn="@string/settings_24_label"
-                    android:textOff="@string/settings_12_label"
-                    app:showText="true"
-                    />
-
-            </TableRow>
-
-            <!-- Show FAB? -->
-            <TableRow
-                android:layout_height="wrap_content"
-                android:layout_width ="match_parent"
-                android:paddingTop="10dp"
-                android:gravity="center"
-                >
-
-                <android.support.v7.widget.SwitchCompat
-                    android:id="@+id/switchFabVisible"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="@string/settings_show_fab"
-                    android:textOn="@string/settings_on_label"
-                    android:textOff="@string/settings_off_label"
-                    app:showText="true"
-                    />
-
-            </TableRow>
-
-
-        </TableLayout>
+            android:layout_height="wrap_content"
+            android:text="@string/settings_show_fab"
+            android:textOn="@string/settings_on_label"
+            android:textOff="@string/settings_off_label"
+            app:showText="true"
+            />
 
 
     </LinearLayout>

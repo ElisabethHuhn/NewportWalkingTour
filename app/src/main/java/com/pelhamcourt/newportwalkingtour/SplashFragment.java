@@ -40,7 +40,7 @@ public class SplashFragment extends Fragment {
         super.onCreate(savedInstanceState);
 
         //initialize the DB, providing it with a context if necessary
-        DatabaseManager.getInstance(getActivity());
+        //DatabaseManager.getInstance(getActivity());
     }
 
     @Override
@@ -82,16 +82,21 @@ public class SplashFragment extends Fragment {
         // I never could figure out the right way to fix it.
         Utilities utilities = Utilities.getInstance();
         if (getOrientation() == Configuration.ORIENTATION_LANDSCAPE) {
+            utilities.hideSoftKeyboard(activity);
 
+            // TODO: 1/2/2018 if there ever is an EditText on this page, replace the statement with this block
+            /*
             //get rid of the soft keyboard if it is visible
             View v = getView();
             if (v != null) {
-               // EditText siteNickNameInput = v.findViewById(R.id.siteNickNameInput);
+                //Need an EditText for this to be reasonable. There is none on this page yet
+               // Button siteNickNameInput = v.findViewById(R.id.siteNickNameInput);
                 //utilities.showSoftKeyboard(activity, siteNickNameInput);
             }
         } else {
             //get rid of the soft keyboard if it is visible
             utilities.hideSoftKeyboard(activity);
+        */
         }
 
 
@@ -120,26 +125,6 @@ public class SplashFragment extends Fragment {
         super.onSaveInstanceState(savedInstanceState);
     }
 
-
-    //*************************************************************/
-    /*  Convenience Methods for accessing things on the Activity  */
-    //*************************************************************/
-
-    private long     getSiteID(){
-
-        MainActivity activity = (MainActivity)getActivity();
-        if (activity == null)return Utilities.ID_DOES_NOT_EXIST ;
-        return activity.getSiteID();
-    }
-    private void     setSiteID(long siteID) {
-        MainActivity activity = (MainActivity)getActivity();
-        if (activity == null)return ;
-        activity.setSiteID(siteID);
-    }
-
-    private Site getSite(){
-        return SiteManager.getInstance().getSite(getSiteID());
-    }
 
     //*************************************************************/
     /*                    Initialization Methods                  */

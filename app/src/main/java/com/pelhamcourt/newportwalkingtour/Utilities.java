@@ -3,7 +3,6 @@ package com.pelhamcourt.newportwalkingtour;
 
 import android.content.Context;
 import android.content.DialogInterface;
-import android.os.Environment;
 import android.support.design.widget.Snackbar;
 import android.support.v4.app.FragmentActivity;
 import android.support.v4.content.ContextCompat;
@@ -28,7 +27,7 @@ import android.widget.Toast;
     //************************************/
 
 
-    static final boolean BUTTON_DISABLE = false;
+    //static final boolean BUTTON_DISABLE = false;
     static final boolean BUTTON_ENABLE  = true;
 
 
@@ -134,22 +133,22 @@ import android.widget.Toast;
         alertDialog.show();
 
         Button negButton = alertDialog.getButton(DialogInterface.BUTTON_NEUTRAL);
-        negButton.setText(R.string.showLongDesc);
+        negButton.setText(R.string.showShortDesc);
         negButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 TextView messageView = alertDialog.findViewById(android.R.id.message);
-                if (messageView != null) messageView.setText(mLongDesc);
+                if (messageView != null) messageView.setText(mShortDesc);
             }
         });
 
         Button neuButton = alertDialog.getButton(DialogInterface.BUTTON_NEGATIVE);
-        neuButton.setText(R.string.showShortDesc);
+        neuButton.setText(R.string.showLongDesc);
         neuButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 TextView messageView = alertDialog.findViewById(android.R.id.message);
-                if (messageView != null) messageView.setText(mShortDesc);
+                if (messageView != null) messageView.setText(mLongDesc);
             }
         });
     }
@@ -234,23 +233,5 @@ import android.widget.Toast;
     }
 
 
-
-
-    //************************************/
-    /*             File utilities        */
-    //************************************/
-
-    /* Checks if external storage is available for read and write */
-    boolean isExternalStorageWritable() {
-        String state = Environment.getExternalStorageState();
-        return (Environment.MEDIA_MOUNTED.equals(state)) ;
-    }
-
-    /* Checks if external storage is available to at least read */
-    boolean isExternalStorageReadable() {
-        String state = Environment.getExternalStorageState();
-        return (Environment.MEDIA_MOUNTED.equals(state) ||
-                Environment.MEDIA_MOUNTED_READ_ONLY.equals(state)) ;
-    }
 
 }

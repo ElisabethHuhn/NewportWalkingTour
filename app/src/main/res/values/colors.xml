@@ -6,14 +6,10 @@
 
 
     <color name="colorTextBlack"       >#000000</color>
-    <color name="colorButton1Background">#6ca8e5</color>
     <color name="colorScreenBackground" >#b1d1f1</color>
 
     <color name="colorWhite"           >#ffffff</color>
     <color name="colorGray"            >#dcdcdc</color>
-    <color name="colorGrayest"         >#cac9c9</color>
-
-    <color name="colorDefaultMarker"    >#ffd18802</color>
 
 
 </resources>

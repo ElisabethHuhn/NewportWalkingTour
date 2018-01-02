@@ -107,10 +107,10 @@ public class SiteListFragment extends Fragment {
         field_container = v.findViewById(R.id.siteTitleRow);
 
         label = field_container.findViewById(R.id.siteOrdinalOutput);
-        label.setText(R.string.sitesOnTour);
+        label.setText(R.string.siteOrdinal);
 
         label = field_container.findViewById(R.id.siteTitleOutput);
-        label.setText(R.string.siteOrdinal);
+        label.setText(R.string.sitesOnTour);
         //label.setBackgroundColor(ContextCompat.getColor(activity, R.color.colorWhite));
 
     }
