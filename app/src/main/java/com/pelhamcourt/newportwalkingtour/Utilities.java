@@ -33,8 +33,6 @@ import android.widget.Toast;
 
     static final long    ID_DOES_NOT_EXIST = -1;
 
- 
-
 
 
     //************************************/
@@ -45,7 +43,6 @@ import android.widget.Toast;
     //************************************/
     /*    Member (instance) Variables    */
     //************************************/
-
 
 
     //************************************/
